@@ -1,5 +1,5 @@
 # Install-and-sample-go-diameter-programs 
-
+Ref : https://github.com/panyogesh/integration-magma/blob/main/utils/go-diameter-sample.md
 # Install go language 
 
 sudo apt-get update 
